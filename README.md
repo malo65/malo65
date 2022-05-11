@@ -4,7 +4,7 @@
 :blush: I’m learning Java development in Yandex.  
 :blush: I'm going to take part in 30 Days of Code Challenge on [hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code).  
 :raising_hand: I'm looking for an open source project to participate in.  
-:thumbsup: I’ve solved 1 leetcode challenge. 
+:thumbsup: I’ve solved 1 leetcode problem. 
 
 
 <!--
