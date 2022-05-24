@@ -4,8 +4,8 @@
 :blush: I’m learning Java development in Yandex.  
 :blush: I'm going to take part in 30 Days of Code Challenge on [hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code).  
 :raising_hand: I'm looking for an open source project to participate in.  
-:thumbsup: I’ve solved 1 leetcode problem. 
-
+:thumbsup: I’ve solved 2 leetcode problem.   
+:neutral_face: I haven't written any answer on [stackoverflow](https://stackoverflow.com/) yet, but I definitely will.
 
 <!--
 **malo65/malo65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
