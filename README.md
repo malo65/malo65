@@ -7,6 +7,11 @@
 :thumbsup: I’ve solved 2 leetcode problem.   
 :neutral_face: I haven't written any answer on [stackoverflow](https://stackoverflow.com/) yet, but I definitely will.
 
+
+</br>
+</br>
+skills: java 17, git
+
 <!--
 **malo65/malo65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
